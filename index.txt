@@ -1,2 +1,5 @@
 Hello GitHub!
 I survived the GitHub boss fight!
+This is my third try
+This is my third line
+Git is actually pretty cool
